@@ -1,4 +1,4 @@
-#Welcome to Madland! 
+# Welcome to Madland! 
 
 We are a superior civilisation, although run by a *patriarchal tyrant*. And the latest order enforced by the devil is the prohibition of any sensible form of monetary transanctions cause why not
 Essentially that means:
