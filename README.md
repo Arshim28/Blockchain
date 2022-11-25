@@ -6,5 +6,6 @@ Essentially that means:
 - No UPI (Wtf!)
 - No cheques(Burn in hell you wanker!)
 
-So in order to save our asses, we have decided to create a decentralised network of our own, not at all under the control of the "omniscent"- A **Blockchain Network**
+So in order to save our asses, we have decided to create a decentralised network of our own, not at all under the control of the "omniscent"- A **Blockchain Network**.
+
 Would you help us out?
