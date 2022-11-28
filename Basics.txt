@@ -1,0 +1,33 @@
+Let's begin with the blockchain basics!
+
+I'll keep these notes as structured as possible, to make it easy to refer whenever in doubt!
+
+->Bitcoin - peer-to-peer transanctions - decentralised networks - powered by cryptography - superior digital store of value
+
+->Ethrerium - decentralised contracts in addition to decentralised transanctions- smart contracts - Essentially, Etherium = Bitcoin logic(Decentralised network) + agreements
+Note: Smart contracts are just a set of instructions followed in a decentralised network.
+
+->Bitcoin is turing incomplete - turing complete = a machine/program that can solve all the problems which the turing machine can (devloped by the OP Alan Turing)
+
+->Blockchains face the Oracle Problem - Oracle Problem = Theory that humans are never sufficiently equipped with the data to test their programs (just like how unlike Oracles, we cannot predict our own future)- Blockchain technologies cannot really communicate with data out there in the world
+
+->Blockchains are deterministic systems- everything happens in their own network (sort of mini-world)
+
+->Blockchain Oracle: A device that provides the "off-link" data to a blockchain smart contract
+
+->Hybrid smart contracts - on-chain + off-chain agreements - with the help of above mentioned oracles
+
+->Chainlink - decentralised oracle network - brings both on-chain and off-chain data - decentralised 
+
+->Dapp = Decentralised application = smart contract protocol
+
+What do smart contracts do?
+- They create "trust minimised agreements" - Unbreakable promises
+
+To summarise till here, what exactly do blockchains bring to the table?
+-> Decentralised
+-> Immutable (Security)
+-> Transparent
+-> Efficient
+-> Counterparty risk removal 
+
