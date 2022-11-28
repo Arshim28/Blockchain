@@ -1,0 +1,5 @@
+1) Install MetaMask extension on web browser
+2) Setup a test MetaMask wallet
+3) Extremely vital to remember the secret phrase!
+
+-> Etherscan - block explorer - used to view different addresses
